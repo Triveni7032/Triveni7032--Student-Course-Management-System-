@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": 101,
+        "name": "Rahul",
+        "course": "Python",
+        "marks": 85
+    },
+    {
+        "student_id": 102,
+        "name": "Priya",
+        "course": "Data Science",
+        "marks": 92
+    },
+    {
+        "student_id": 103,
+        "name": "Arjun",
+        "course": "SQL",
+        "marks": 78
+    },
+    {
+        "student_id": 231,
+        "name": "4",
+        "course": "python",
+        "marks": 60
+    }
+]
